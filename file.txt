@@ -1,2 +1,8 @@
 A
+<<<<<<< HEAD
 D
+=======
+B
+C
+>>>>>>> cool-new-feature
+E
